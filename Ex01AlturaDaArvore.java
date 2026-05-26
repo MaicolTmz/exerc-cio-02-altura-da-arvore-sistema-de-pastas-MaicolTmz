@@ -28,8 +28,8 @@ public class Ex01AlturaDaArvore {
    }
     public static void main(String[] args) {
        No raiz = pastasEmpresa();
-       System.out.println("Altura da árvore: " + altura(raiz));
-       System.out.println("Altura árvore vazia: " + altura(null));
+       System.out.println("Altura da arvore: " + altura(raiz));
+       System.out.println("Altura arvore vazia: " + altura(null));
    }  
 
 }
